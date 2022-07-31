@@ -17,13 +17,16 @@ import {
 import Home from './Screen/Home';
 import Slider from './Screen/Slider';
 import Main from './Screen/Main';
+import SliderDelete from './Screen/SliderDelete';
+import SwipeablesPage from './Screen/SwipeablesPage';
+import Swipeablesecond from './Screen/Swipeablesecond';
   
 
 
 const App =() => {
 
   return (
-<Main/>
+<SwipeablesPage/>
   );
 };
 
