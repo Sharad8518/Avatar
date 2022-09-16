@@ -20,13 +20,25 @@ import Main from './Screen/Main';
 import SliderDelete from './Screen/SliderDelete';
 import SwipeablesPage from './Screen/SwipeablesPage';
 import Swipeablesecond from './Screen/Swipeablesecond';
+import NewImgSlider from "./Screen/NewImgeSlider"
+import Share from './Screen/Share';
+import RoomNavigation from './Screen/RoomNavigation';
   
 
 
 const App =() => {
 
   return (
-<SwipeablesPage/>
+
+    <RoomNavigation/>
+
+
+
+
+
+
+
+
   );
 };
 
